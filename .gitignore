@@ -1,0 +1,6 @@
+firefox*/
+firefox-*.tar.bz2
+
+demo_profile/*
+!demo_profile/prefs.js
+

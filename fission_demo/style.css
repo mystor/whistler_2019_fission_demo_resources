@@ -1,0 +1,11 @@
+.rotate {
+    transform: rotate(30deg);
+}
+
+.scale {
+    transform: scale(1.5) translate(33%, 33%);
+}
+
+.scale.rotate {
+    transform: scale(1.5) translate(33%, 33%) rotate(30deg);
+}
